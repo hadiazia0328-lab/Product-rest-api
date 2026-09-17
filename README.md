@@ -31,7 +31,7 @@ WD_1_SimpleRESTAPI_BYTE/
 
 1. Clone the repository:
 ```bash
-   git clone <https://github.com/hadiazia0328-lab/Product-rest-api.git>
+   git clone https://github.com/hadiazia0328-lab/Product-rest-api.git
    cd WD_1_SimpleRESTAPI_BYTE
 ```
 
